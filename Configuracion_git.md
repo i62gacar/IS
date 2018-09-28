@@ -63,6 +63,12 @@
 
 * git log -- oneline -3, este comando sirve para listar los ultimos 3 commit en una sola linea.
 
+* git show, este comando sirve para listar el contenido de un commit.
+
+* git diff<id> nombre_archivo, este comando sirve para comparar un commit con el actual.
+
+* git diff id .. id nombre_archivo, este comando sirve para dos commit.
+
 
 
 
