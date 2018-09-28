@@ -33,3 +33,13 @@
 * git status, este comando te dice la diferencia entre la area de trabajo y el repositorio de git, y tambien la difernecia entre el staging area y el repositorio de git.
 
 
+* git diff, este comando te dice la diferencia entre el area de trabajo y el repertorio de git.
+
+* git diff – staged, este comando te dice la difernecia entre el staging area y el repertorio de git.
+
+* git rm archivo git commit -m " Mensaje ", estos comandos sirven para eliminar un fichero del repertorio.
+
+* git mv antiguo nuevo git commit -m " Mensaje ", estos comandos sirven para mover o renombrar un fichero en el repertorio
+
+
+
