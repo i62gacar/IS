@@ -39,7 +39,18 @@
 
 * git rm archivo git commit -m " Mensaje ", estos comandos sirven para eliminar un fichero del repertorio.
 
-* git mv antiguo nuevo git commit -m " Mensaje ", estos comandos sirven para mover o renombrar un fichero en el repertorio
+* git mv antiguo nuevo git commit -m " Mensaje ", estos comandos sirven para mover o renombrar un fichero en el repertorio.
+
+* git checkout  nombre_fichero, este comando sirve para deshacer un cambio de un fichero.
+
+* git reset HEAD nombre_fichero, este comando sirve para eliminar un cambio del staging area.
+
+* git commit -- amend -m " Mensaje ", este comando sirve para complementar el ultimo commit.
+
+* git checkout < id_commit >  nombre_archivo, este comando sirve para volver a un commit antiguo.
+
+* git revert < id_commit >, este comando sirve para deshacer un commit en concreto.
+
 
 
 
