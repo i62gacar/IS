@@ -51,6 +51,12 @@
 
 * git revert < id_commit >, este comando sirve para deshacer un commit en concreto.
 
+* git reset -- soft < id_commit >, git reset -- mixed < id_commit >, git reset -- hard < id_commit >, estos comando sirven apra deshacer varios cambios del repositorio.
+
+* git clean –n, este comando sirve para listar los ficheros los cuales git no controla.
+
+* git clean –f, este comando sirve para eliminar los ficheros que git no controla.
+
 
 
 
