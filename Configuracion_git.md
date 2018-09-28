@@ -57,6 +57,12 @@
 
 * git clean –f, este comando sirve para eliminar los ficheros que git no controla.
 
+* git ls - tree master, git ls - tree master ^^^, git ls - tree master ~3, estos comando sirven para listar contenido del repositorio de git.
+
+* git log – oneline, este comando sirve para lista los ultimos commit en una sola linea.
+
+* git log -- oneline -3, este comando sirve para listar los ultimos 3 commit en una sola linea.
+
 
 
 
