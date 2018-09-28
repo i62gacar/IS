@@ -22,3 +22,14 @@
 
 * git log, este comando que lista todos los commit que se han realizado, junto con us id, y su mensaje.
 
+* git help log, este comando imprime un tutorial de todas las opciones de log.
+
+* git log -n 5, este comando lista los ultimos 5 commit.
+
+* git log -- since =2018 -09 -18, este comando lista los commit que se han realizado a partir de la fecha.
+
+* git log -- author ="i62gacar", este comando lista los commit que ha realizado un usuario
+
+* git status, este comando te dice la diferencia entre la area de trabajo y el repositorio de git, y tambien la difernecia entre el staging area y el repositorio de git.
+
+
