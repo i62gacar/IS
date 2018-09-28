@@ -9,3 +9,16 @@
 * git config --global color.ui true, este comando cambia el color de la interfaz de todo el repertorio.
 
 * git config –list, este comando sirve para listar toda la configuración general.
+
+##Ahora vamos a ver algunos comandos basicos de git
+
+* git init, este comando hace que git empieze a controlar el repositorio en el que estamos
+
+* git add, este comando hace que añadamos el fichero que hay detras al staging area.
+
+* git commit -m "Mensaje", este comando pasa todo lo que haya en el staging area y lo pasa al repositorio de git, añadiendole el mensaje para saber que ha realizado ese cambio.
+
+* git commit -am " Mensaje ", este comando pasa el fichero del area de trabajo logal al repositorio de git de un solo paso.
+
+* git log, este comando que lista todos los commit que se han realizado, junto con us id, y su mensaje.
+
