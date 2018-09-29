@@ -1,4 +1,4 @@
-##Los comandos de configuración sirven para que en ese reportorio todos los archivos tengan las mismas características generales.
+## Los comandos de configuración sirven para que en ese reportorio todos los archivos tengan las mismas características generales.
 
 * git config --global user.name "i62gacar", este comando hace que el usuario propietario del repertorio, sea el indicado entre comillas.
 
@@ -10,7 +10,7 @@
 
 * git config –list, este comando sirve para listar toda la configuración general.
 
-##Ahora vamos a ver algunos comandos basicos de git
+## Ahora vamos a ver algunos comandos basicos de git
 
 * git init, este comando hace que git empieze a controlar el repositorio en el que estamos
 
